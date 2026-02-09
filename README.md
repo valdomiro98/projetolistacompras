@@ -1,4 +1,4 @@
-# agenda_contatos_flutter
+# lista_compras_flutter
 
 A new Flutter project.
 
